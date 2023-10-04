@@ -16,3 +16,8 @@ console.log("My pet dog's name is " + petDog);
 
 console.log("My pet cat's name is " + petCat);
 
+var catSound = "purrr";
+
+var dogSound = "woof";
+
+console.log(first)
