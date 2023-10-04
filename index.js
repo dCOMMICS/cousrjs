@@ -26,3 +26,8 @@ console.log(first)
 console.log(petDog, "says", dogSound);
 
 console.log(petCat, "says", catSound);
+
+var petCat = 'Pepper';
+var catSound ="meow";
+
+console.log(petCat, "says", catSound);
