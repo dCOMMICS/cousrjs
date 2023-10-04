@@ -24,3 +24,5 @@ console.log(first)
 
 
 console.log(petDog, "says", dogSound);
+
+console.log(petCat, "says", catSound);
