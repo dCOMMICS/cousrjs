@@ -31,3 +31,7 @@ var petCat = 'Pepper';
 var catSound ="meow";
 
 console.log(petCat, "says", catSound);
+
+
+var petDog1 = 'Jamila'
+console.log(petDog1)
