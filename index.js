@@ -20,7 +20,7 @@ var catSound = "purrr";
 
 var dogSound = "woof";
 
-console.log(first)
+// console.log(first)
 
 
 console.log(petDog, "says", dogSound);
