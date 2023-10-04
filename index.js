@@ -1,8 +1,8 @@
 console.log("%cHello, World", "color: blue; font-size: 40px"); // blue color
 
-var petDog = Rex;
+var petDog = 'Rex';
 
-var petCat = Pepper;
+var petCat = 'Pepper';
 
 console.log(petDog);
 
