@@ -33,5 +33,17 @@
 // console.log(petCat, "says", catSound);
 
 
-var petDog1 = 'Jamila'
-console.log(petDog1)
+// var petDog1 = 'Jamila'
+// console.log(petDog1)
+
+let time = 14;
+let message;
+
+if (time > 12) {
+    message = 'fuck you';
+} else if (time>18 ){
+    message = 'stupid muthafucker';
+} else {
+    message = 'oooh shit';
+}
+console.log(message)
