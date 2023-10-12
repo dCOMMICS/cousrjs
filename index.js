@@ -53,5 +53,13 @@ let isRaining = true;
 let isCold = false;
 
 if (isRaining) {
-    if ()
+    if (isCold){
+        console.log("umbrella is already")
+    } else { 
+        console.log("bring a jacket")
+    } 
+    
+    else{ 
+        console.log("enjoy")
+    }
 }
