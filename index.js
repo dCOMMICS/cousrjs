@@ -48,3 +48,10 @@ if (time > 12) {
 }
 console.log(message)
 
+let isRaining = true;
+
+let isCold = false;
+
+if (isRaining) {
+    if ()
+}
